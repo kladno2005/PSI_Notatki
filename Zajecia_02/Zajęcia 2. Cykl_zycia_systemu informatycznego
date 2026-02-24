@@ -1,1 +1,20 @@
+Etapy cyklu zycia systemu informatycznego:
+1. Planowanie
+2. Analiza wymagań
+3. Projektowanie
+4.Implementacja
+5.Testowanie
+6.Wdrożenie
+7.Eksploatacja i utrzymanie
+8.Wycofanie systemu
 
+- Czy cykl życia procesu analizy danych w data science jest podobny 
+do etapów Cyklu życia systemu informatycznego? 
+
+Cykle życia obu procesów są w pewnym sensie podobne. Oba procesy zaczynają się od planowania, a konrketnie ustalenia celów. Następnie w obu procesach następuje tworzenie danego oprogramowania lub modelu.
+W cyklu życia systemu informatycznego mamy projektowanie oraz implementacje, w cyklu życia procesu analizy danych następuje gromadzenie danych i zarządzanie nimi, a następnie budowanie modelu.
+Następnie w obu cyklach następuje "testowanie". Systemy informatyczne poddajemy testowaniu, a modele analityczne oceniamy i poddajemy krytyce. Po przejściu tego etapu, w obu cyklach następuje wdrożenie.
+
+- Czy w obu cyklach życia kolejność etapów jest (ogólnie) analogiczna?
+Ogólnie, tak. Można to zobaczyć chociażby czytając odpowiedź na poprzednie zadanie. Są jednak wyjątki -  w cyklu życia systemu informatycznego mamy etapy takie jak eksploatacja oraz wycofanie systemu, które
+nie mają swoich odpowiedników w cyklu życia procesu analizy danych.
